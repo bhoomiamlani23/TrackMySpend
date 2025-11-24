@@ -1,6 +1,6 @@
 # 💰 TrackMySpend
 
-SpendTracker is a comprehensive, user-specific personal finance application built using **Java Swing**. It allows individual users to securely track expenses, manage dual balances (Online/Offline), set monthly goals, and analyze their spending trends through interactive graphical charts.
+TrackMySpend is a comprehensive, user-specific personal finance application built using **Java Swing**. It allows individual users to securely track expenses, manage dual balances (Online/Offline), set monthly goals, and analyze their spending trends through interactive graphical charts.
 
 ***
 
