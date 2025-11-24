@@ -5,11 +5,11 @@ public class User implements Serializable {
     private String username;
     private String password;
     private String name = "New User";
-    private String email = "student@college.edu";
-    private int age = 20;
+    private String email = "xyz@gmail.com";
+    private int age = 0;
     private String mobile = "N/A";
     private String profileImagePath = "";
-    private double monthlyGoal = 500.00;
+    private double monthlyGoal = 0.00;
     private ArrayList<Expense> expenses = new ArrayList<>();
     
     private double onlineBalance = 0.00;
@@ -42,4 +42,5 @@ public class User implements Serializable {
     public void setPassword(String password) { this.password = password; } 
     public void setOnlineBalance(double onlineBalance) { this.onlineBalance = onlineBalance; }
     public void setOfflineBalance(double offlineBalance) { this.offlineBalance = offlineBalance; }
+
 }
