@@ -35,13 +35,21 @@ The application provides detailed visualizations for current month spending:
 ## 📁 Project Structure
 
 The entire application is organized into the following files within the `TrackMySpend` package:
+```
 TrackMySpend/
 ├── TrackMySpendJava.java   
 ├── AuthFrame.java         
 ├── AuthPanel.java         
 ├── User.java             
-├── Expense.java            
+├── Expense.java
+├── assets/
+│         ├── img1.jpg
+│         ├── ...
+│         ├── img7.jpg
 └── *.class files
+
+             
+```
 
 ## 🛠️ Developer Information
 
